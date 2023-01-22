@@ -6,4 +6,7 @@ editor: visual
 
 ```{r}
 
+library(tidyverse)
+mtcars%>%summary
+
 ```
